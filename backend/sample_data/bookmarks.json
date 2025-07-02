@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Awesome GraphQL Caching",
+      "url": "https://example.com/graphql-caching",
+      "notes": "Explains how to use edge caching with GraphQL queries."
+    },
+    {
+      "title": "Vector Databases 101",
+      "url": "https://example.com/vector-dbs",
+      "notes": "Intro to using vector DBs for semantic search."
+    },
+    {
+      "title": "LLM Agent Orchestration",
+      "url": "https://example.com/llm-agents",
+      "notes": "Good piece on LangGraph and multi-agent pipelines."
+    }
+  ]
