@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+openai
+networkx
+scikit-learn
+python-dotenv
+pydantic
+# Add if you want file uploads:
+# python-multipart
